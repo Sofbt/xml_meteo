@@ -30,3 +30,10 @@ xsltproc meteo-to-html.xsl meteo_xsd.xml > output/meteo.html
 xsltproc meteo-to-svg.xsl meteo_xsd.xml > output/meteo.svg
 ```
 "# xml_meteo" 
+
+<img width="786" height="463" alt="image" src="https://github.com/user-attachments/assets/aadef29b-d128-4789-8526-394dfad51580" />
+
+<img width="1336" height="497" alt="image" src="https://github.com/user-attachments/assets/ff7f38be-2afa-4ce0-9838-a184b7962d41" />
+
+<img width="1337" height="428" alt="image" src="https://github.com/user-attachments/assets/a78f68b4-ccf3-4d13-8ef3-321f27c0877d" />
+
